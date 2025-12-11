@@ -20,8 +20,9 @@
 
 ## 🚀 Usage
 
-> [!TIP] Just open the index.html file in your browser.
-> No build step, no bundlers, no local server required.
+> [!TIP]
+> Just open the index.html file in your browser. No build step, no bundlers, no
+> local server required.
 
 ## 🗺️ How to Use
 
