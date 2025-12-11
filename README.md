@@ -1,7 +1,13 @@
 # 📍 Mini OSM Directions UI
 
-> [!NOTE] A tiny, single-file OpenStreetMap directions interface using Leaflet, Tailwind, and the OSRM demo routing server.
-> Includes a rounded modern UI, click-to-set coordinates, zoom/pan, and auto-fitting route display.
+
+> [!NOTE]
+> What in the world?
+
+> [!NOTE]
+> A tiny, single-file OpenStreetMap directions interface using Leaflet,
+> Tailwind, and the OSRM demo routing server. Includes a rounded modern UI,
+>click-to-set coordinates, zoom/pan, and auto-fitting route display.
 
 ## ✨ Features
 
